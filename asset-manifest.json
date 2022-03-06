@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PortfolioWeb-2022/static/css/main.8bac0c8f.css",
+    "main.css": "/PortfolioWeb-2022/static/css/main.50f3fe60.css",
     "main.js": "/PortfolioWeb-2022/static/js/main.8c58aed3.js",
     "static/media/dark-blue-texture-background.jpg": "/PortfolioWeb-2022/static/media/dark-blue-texture-background.4ec16839161b348c2a3c.jpg",
     "static/media/Me-About.jpg": "/PortfolioWeb-2022/static/media/Me-About.f842e0cdbfb1f75ab544.jpg",
@@ -16,11 +16,11 @@
     "static/media/Person2.jpg": "/PortfolioWeb-2022/static/media/Person2.7cc05f5fb8b338e03bab.jpg",
     "static/media/Person3.png": "/PortfolioWeb-2022/static/media/Person3.83bb0264f6a689db82ae.png",
     "index.html": "/PortfolioWeb-2022/index.html",
-    "main.8bac0c8f.css.map": "/PortfolioWeb-2022/static/css/main.8bac0c8f.css.map",
+    "main.50f3fe60.css.map": "/PortfolioWeb-2022/static/css/main.50f3fe60.css.map",
     "main.8c58aed3.js.map": "/PortfolioWeb-2022/static/js/main.8c58aed3.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bac0c8f.css",
+    "static/css/main.50f3fe60.css",
     "static/js/main.8c58aed3.js"
   ]
 }
