@@ -1,6 +1,70 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/jsx-no-target-blank */
 import React from 'react'
 
+import IMG1 from "../../assets/proyect-1.png"
+import IMG2 from "../../assets/proyect-2.png"
+import IMG3 from "../../assets/proyect-3.png"
+import IMG4 from "../../assets/proyect-4.png"
+import IMG5 from "../../assets/proyect-5.png"
+import IMG6 from "../../assets/proyect-6.png"
+
+
 import "./portfolio.css"
+
+
+
+const data= [
+  {
+    id:1,
+    image:IMG1,
+    title:"NFT Proyect",
+    github:"https://github.com",
+    demo:"https://github.com"
+  },
+
+  {
+    id:2,
+    image:IMG2,
+    title:"Unkrypted Proyect",
+    github:"https://github.com",
+    demo:"https://github.com"
+  },
+
+  {
+    id:3,
+    image:IMG3,
+    title:"Card Proyect",
+    github:"https://github.com",
+    demo:"https://github.com"
+  },
+
+  {
+    id:4,
+    image:IMG4,
+    title:"Base Proyect",
+    github:"https://github.com",
+    demo:"https://github.com"
+  },
+
+  {
+    id:5,
+    image:IMG5,
+    title:"Music Proyect",
+    github:"https://github.com",
+    demo:"https://github.com"
+  },
+
+  {
+    id:6,
+    image:IMG6,
+    title:"Crypto Proyect",
+    github:"https://github.com",
+    demo:"https://github.com"
+  },
+]
+
+
 
 const Portfolio = () => {
   return (
@@ -9,13 +73,25 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className='container portfolio__container'>
-        <article className='portfolio__item'>
 
-          <div>
+          {data.map(({id,image,title,github,demo})=>{
 
-          </div>
+            return(
+              <article key={id} className='portfolio__item'>
+
+                <div className='portfolio__item-image'>
+                  <img src={image} alt="Proyect"></img>
+                </div>
+                <h3>{title}</h3>    
+                <div className='portfolio__item-cta'>
+                  <a href={github} className='btn' target="_blank">Github</a>
+                  <a href={demo} className='btn btn-primary' target="_blank">Live Demo</a>
+                </div>
           
-        </article>
+              </article>
+            )
+          })}
+          
       </div>
     </section>
   )

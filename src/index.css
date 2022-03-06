@@ -117,6 +117,10 @@ a:hover {
   color: var(--color-bg);
 }
 
+.sendmessage{
+  font-size: 1.2rem ;
+}
+
 img {
   display: block;
   width: 100%;
