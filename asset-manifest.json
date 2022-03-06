@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "/PortfolioWeb-2022/static/css/main.dc079dd5.css",
-    "main.js": "/PortfolioWeb-2022/static/js/main.1cc10fb3.js",
+    "main.css": "/PortfolioWeb-2022/static/css/main.8bac0c8f.css",
+    "main.js": "/PortfolioWeb-2022/static/js/main.8c58aed3.js",
     "static/media/dark-blue-texture-background.jpg": "/PortfolioWeb-2022/static/media/dark-blue-texture-background.4ec16839161b348c2a3c.jpg",
     "static/media/Me-About.jpg": "/PortfolioWeb-2022/static/media/Me-About.f842e0cdbfb1f75ab544.jpg",
     "static/media/Me-Selfie.png": "/PortfolioWeb-2022/static/media/Me-Selfie.7ed35fc11e46183c9202.png",
+    "static/media/proyect-6.png": "/PortfolioWeb-2022/static/media/proyect-6.368527da23a72646090b.png",
+    "static/media/proyect-4.png": "/PortfolioWeb-2022/static/media/proyect-4.06ceaec342646aaf0d29.png",
+    "static/media/proyect-1.png": "/PortfolioWeb-2022/static/media/proyect-1.01ebd91e482b5bb69130.png",
+    "static/media/proyect-5.png": "/PortfolioWeb-2022/static/media/proyect-5.dd060ce4e8cada858be2.png",
+    "static/media/proyect-2.png": "/PortfolioWeb-2022/static/media/proyect-2.b9e7a4eb72b3c7115cff.png",
+    "static/media/proyect-3.png": "/PortfolioWeb-2022/static/media/proyect-3.4604ad5de3b8aa14a3fb.png",
+    "static/media/Person1.png": "/PortfolioWeb-2022/static/media/Person1.03bdb7bdf9769a453796.png",
     "static/media/Resume Josías Pazzelli 2022.pdf": "/PortfolioWeb-2022/static/media/Resume Josías Pazzelli 2022.e5aa4b70687108dc0c60.pdf",
+    "static/media/Person2.jpg": "/PortfolioWeb-2022/static/media/Person2.7cc05f5fb8b338e03bab.jpg",
+    "static/media/Person3.png": "/PortfolioWeb-2022/static/media/Person3.83bb0264f6a689db82ae.png",
     "index.html": "/PortfolioWeb-2022/index.html",
-    "main.dc079dd5.css.map": "/PortfolioWeb-2022/static/css/main.dc079dd5.css.map",
-    "main.1cc10fb3.js.map": "/PortfolioWeb-2022/static/js/main.1cc10fb3.js.map"
+    "main.8bac0c8f.css.map": "/PortfolioWeb-2022/static/css/main.8bac0c8f.css.map",
+    "main.8c58aed3.js.map": "/PortfolioWeb-2022/static/js/main.8c58aed3.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc079dd5.css",
-    "static/js/main.1cc10fb3.js"
+    "static/css/main.8bac0c8f.css",
+    "static/js/main.8c58aed3.js"
   ]
 }
