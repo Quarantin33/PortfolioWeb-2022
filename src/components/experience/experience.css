@@ -2,7 +2,6 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap:2rem;
-
 }
 
 
@@ -52,15 +51,23 @@
 
 @media screen and (max-width: 600px) {
     .experience__container{
-        gap: 1rem;
-
-    }
-
-
-    .experience__container > div{
+        gap: 2rem;
         width: 100%;
-        padding: 2rem 1rem ;
+        padding: 1rem 0.5rem;
     }
+
+    .experience__details-icon {
+        margin-left: 0.3rem;
+        
+    }
+
+    .experience__details {
+        margin-right: 1rem;
+        margin-left: -0.5rem;
+    }
+
+    
+
     
 }
 
