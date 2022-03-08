@@ -1,0 +1,5 @@
+"homepage": "https://Quarantin33.github.io/PortfolioWeb-2022",
+
+
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
