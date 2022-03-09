@@ -18,7 +18,7 @@ const data= [
   {
     id:1,
     image:IMG1,
-    title:"NFT Proyect",
+    title:"Name Project",
     github:"https://github.com",
     demo:"https://github.com"
   },
@@ -26,7 +26,7 @@ const data= [
   {
     id:2,
     image:IMG2,
-    title:"Unkrypted Proyect",
+    title:"Name Project",
     github:"https://github.com",
     demo:"https://github.com"
   },
@@ -34,7 +34,7 @@ const data= [
   {
     id:3,
     image:IMG3,
-    title:"Card Proyect",
+    title:"Name Project",
     github:"https://github.com",
     demo:"https://github.com"
   },
@@ -42,7 +42,7 @@ const data= [
   {
     id:4,
     image:IMG4,
-    title:"Base Proyect",
+    title:"Name Project",
     github:"https://github.com",
     demo:"https://github.com"
   },
@@ -50,7 +50,7 @@ const data= [
   {
     id:5,
     image:IMG5,
-    title:"Music Proyect",
+    title:"Name Project",
     github:"https://github.com",
     demo:"https://github.com"
   },
@@ -58,7 +58,7 @@ const data= [
   {
     id:6,
     image:IMG6,
-    title:"Crypto Proyect",
+    title:"Name Project",
     github:"https://github.com",
     demo:"https://github.com"
   },

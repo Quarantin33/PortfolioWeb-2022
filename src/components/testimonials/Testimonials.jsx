@@ -20,22 +20,22 @@ const data =[
   {
     id:1,
     image:Person1,
-    client:"Dan Moore",
-    testimonial:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    client:"Name LastName",
+    testimonial:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
 
   {
     id:2,
     image:Person2,
-    client:"Jack Smith",
-    testimonial:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    client:"Name LastName",
+    testimonial:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
 
   {
     id:3,
     image:Person3,
-    client:"Desmond Ridder",
-    testimonial:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    client:"Name LastName",
+    testimonial:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
 ]
 

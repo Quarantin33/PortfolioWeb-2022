@@ -56,7 +56,7 @@
 .about__icon {
     color: var(--color-primary);
     font-size: 1.4rem;
-    margin-bottom: 1.4rem;
+    margin-bottom: 0.2rem;
 
 }
 
@@ -76,6 +76,7 @@
 .about__content p{
     margin: 2rem 0 2.6rem;
     color: var(--color--light);
+    font-size: 1.05rem;
 }
 
 

@@ -1,5 +1,16 @@
+
+Esto va dentro del package.json
+
+
 "homepage": "https://Quarantin33.github.io/PortfolioWeb-2022",
 
 
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+scripts{
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+}
+
+
+Para crear un build exitoso en el package.json tiene que ir el homepage de la siguiente manera:
+
+homepage:./
