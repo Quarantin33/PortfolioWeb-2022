@@ -18,8 +18,8 @@ const data= [
   {
     id:1,
     image:IMG1,
-    title:"Name Project",
-    github:"https://github.com",
+    title:"Project Countries",
+    github:"https://github.com/Quarantin33/PersonalProject-ApiCountries",
     demo:"https://apicountriesoftheworld.netlify.app"
   },
 
