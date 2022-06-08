@@ -20,7 +20,7 @@ const data= [
     image:IMG1,
     title:"Name Project",
     github:"https://github.com",
-    demo:"https://github.com"
+    demo:"https://apicountriesoftheworld.netlify.app"
   },
 
   {
