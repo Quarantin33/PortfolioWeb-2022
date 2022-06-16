@@ -2,8 +2,8 @@
 /* eslint-disable react/jsx-no-target-blank */
 import React from 'react'
 
-import IMG1 from "../../assets/proyect-1.png"
-import IMG2 from "../../assets/proyect-2.png"
+import ProjectCountries from "../../assets/Project-ApiCountries.jpg"
+import ProjectGamePaperRockScissors from "../../assets/Project-GameRockPaper.jpg"
 import IMG3 from "../../assets/proyect-3.png"
 import IMG4 from "../../assets/proyect-4.png"
 import IMG5 from "../../assets/proyect-5.png"
@@ -17,7 +17,7 @@ import "./portfolio.css"
 const data= [
   {
     id:1,
-    image:IMG1,
+    image:ProjectCountries,
     title:"Project Countries",
     github:"https://github.com/Quarantin33/PersonalProject-ApiCountries",
     demo:"https://apicountriesoftheworld.netlify.app"
@@ -25,10 +25,10 @@ const data= [
 
   {
     id:2,
-    image:IMG2,
-    title:"Name Project",
-    github:"https://github.com",
-    demo:"https://github.com"
+    image:ProjectGamePaperRockScissors,
+    title:"Game Rock Paper Scissors",
+    github:"https://github.com/Quarantin33/PersonalProject-Rock.Paper.Scissors",
+    demo:"https://rock-paper-scissors-react-game.netlify.app/"
   },
 
   {

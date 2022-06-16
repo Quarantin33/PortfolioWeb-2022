@@ -21,9 +21,17 @@
 }
 
 .portfolio__item-image{
+    
     border-radius: 2rem;
     overflow: hidden;
+
     
+    
+}
+
+.portfolio__item-image img{
+    width:280px;
+    height: 200px;
 }
 
 .portfolio__item h3{
