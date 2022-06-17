@@ -35,13 +35,13 @@ const About = () => {
                       <FaAward className='about__icon'/>
                       <h5>Experience</h5>
                       <small>3+ years experience with Java & MySQL</small><br></br>
-                      <small>3+ months experience with ReactJS</small>
+                      <small>6+ months experience with ReactJS</small>
                   </article>
 
                   <article className='about__card'>
                       <VscFolderLibrary className='about__icon'/>
                       <h5>Projects</h5>
-                      <small>5+ Completed</small>
+                      <small>10+ Completed</small>
                   </article>
 
 
@@ -52,8 +52,8 @@ const About = () => {
                     programmed from robotics to web pages.
                     My main specialization is in the development of web pages (Front-end with
                     ReactJS) and Java applications.
-                    I can use HTML5 , CSS3 , JavaScript, ReactJS, MaterialUI Design,Context-Api etc.
-                      
+                    I can use HTML5 , CSS3 , JavaScript, ReactJS, MaterialUI Design,Context-Api,SASS,Redux etc.
+                    I also have an Advance level of english to write, read and talk.  
                   </p>
                   
                   <a href='#contact' className='btn btn-primary'>Let's Talk</a>

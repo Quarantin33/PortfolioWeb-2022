@@ -22,7 +22,7 @@ const Experience = () => {
                     <BsPatchCheckFill className='experience__details-icon'/>
                     <div>
                         <h4>HTML5</h4>
-                        <small className='text-light'>Mid-level</small>
+                        <small className='text-light'>Mid to Advance-level</small>
                     </div>
 
                   </article>
@@ -32,7 +32,7 @@ const Experience = () => {
                     <BsPatchCheckFill className='experience__details-icon'/>
                     <div>
                         <h4>CSS3</h4>
-                        <small className='text-light'>Mid-level</small>
+                        <small className='text-light'>Mid to Advance-level</small>
                     </div>
                     
 
@@ -44,7 +44,7 @@ const Experience = () => {
 
                     <div>
                         <h4>JavaScript</h4>
-                        <small className='text-light'>Mid-level</small>
+                        <small className='text-light'>Mid to Advance -level</small>
                     </div>
                     
 
@@ -56,7 +56,7 @@ const Experience = () => {
 
                     <div>
                         <h4>Bootstrap</h4>
-                        <small className='text-light'>Basic-Mid-level</small>
+                        <small className='text-light'>Mid to Advance-level</small>
                     </div>
                     
 
@@ -68,7 +68,7 @@ const Experience = () => {
 
                     <div>
                         <h4>Material UI</h4>
-                        <small className='text-light'>Basic level</small>
+                        <small className='text-light'>Mid level</small>
                     </div>
                     
 
@@ -79,7 +79,7 @@ const Experience = () => {
                     <BsPatchCheckFill className="experience__details-icon"/>
                     <div>
                         <h4>ReactJS</h4>
-                        <small className='text-light'>Mid-level to Advance  </small>
+                        <small className='text-light'>Mid to Advance-level </small>
                     </div>
                     
 
@@ -91,10 +91,22 @@ const Experience = () => {
 
                       <div>
                         <h4>SASS</h4>
-                        <small className='text-light'>Basic-level</small>
+                        <small className='text-light'>Mid level</small>
                       </div>
                         
                   </article>
+
+                  <article className='experience__details'>
+
+                    <BsPatchCheckFill className="experience__details-icon"/>
+                    <div>
+                        <h4>GitHub</h4>
+                        <small className='text-light'>Mid to Advance-level</small>
+                    </div>
+                    
+
+                  </article>
+
               </div>
 
           </div>
@@ -126,7 +138,7 @@ const Experience = () => {
 
                     <div>
                         <h4>MySQL</h4>
-                        <small className='text-light'>Mid-level</small>
+                        <small className='text-light'>Mid to Advance-level</small>
                     </div>
                     
 
@@ -144,16 +156,7 @@ const Experience = () => {
 
                   </article>
 
-                  <article className='experience__details'>
-
-                    <BsPatchCheckFill className="experience__details-icon"/>
-                    <div>
-                        <h4>GitHub</h4>
-                        <small className='text-light'>Basic-level</small>
-                    </div>
-                    
-
-                  </article>
+                  
 
                   </div>
           </div>
