@@ -34,8 +34,9 @@ const About = () => {
                   <article className='about__card'>
                       <FaAward className='about__icon'/>
                       <h5>Experience</h5>
+                      <small>2+ years being freelance - ReactJS</small><br></br>
                       <small>3+ years experience with Java & MySQL</small><br></br>
-                      <small>6+ months experience with ReactJS</small>
+                      
                   </article>
 
                   <article className='about__card'>
