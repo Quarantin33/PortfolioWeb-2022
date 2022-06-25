@@ -4,7 +4,7 @@ import React from 'react'
 
 import ProjectCountries from "../../assets/Project-ApiCountries.jpg"
 import ProjectGamePaperRockScissors from "../../assets/Project-GameRockPaper.jpg"
-import IMG3 from "../../assets/proyect-3.png"
+import ProjectMovies from "../../assets/Project-Movies.png"
 import IMG4 from "../../assets/proyect-4.png"
 import IMG5 from "../../assets/proyect-5.png"
 import IMG6 from "../../assets/proyect-6.png"
@@ -33,10 +33,10 @@ const data= [
 
   {
     id:3,
-    image:IMG3,
-    title:"Name Project",
-    github:"https://github.com",
-    demo:"https://github.com"
+    image:ProjectMovies,
+    title:"Movies",
+    github:"https://github.com/Quarantin33/PersonalProject-Movies",
+    demo:"https://inmovies.netlify.app/"
   },
 
   {
